@@ -1,2 +1,2 @@
-# TinyUbae
-Welcome to Tiny Ubae!!
+# tinyubae
+Welcome to tinyubae

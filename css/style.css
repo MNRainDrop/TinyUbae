@@ -27,6 +27,9 @@
     width: 33.33%
 }
 
+.column h1{
+    font-size: 5vw;
+}
 .row:after{
     position: relative;
     z-index: 1;

@@ -16,7 +16,7 @@
     font-family: likeeat;
     color: #6d4d7e;
     padding: 10px;
-    font-size: 4vw;
+    font-size: 3vw;
 }
 
 
@@ -28,7 +28,7 @@
 }
 
 .column h1{
-    font-size: 3vw;
+    font-size: 2vw;
 }
 .row:after{
     position: relative;
